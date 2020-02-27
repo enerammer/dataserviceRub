@@ -19,3 +19,4 @@ Man vil bl.a. kunne få introduktion til:
     <td>NVivo</td>
   </tr>
 </table>
+Jeg skal bare lige teste at forke
